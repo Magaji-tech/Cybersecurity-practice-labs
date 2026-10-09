@@ -77,3 +77,22 @@
  8.   Authorization
      
 All scans in this project are intended for systems owned by the learner or systems for which explicit authorization has been granted.
+ 
+ 
+ ## 9. Scan Evidence
+ The screenshot below shows the results of my Nmap TCP port scanning exercise.
+ ![Nmap Scan Results] (Screenshot_2026-10-09_at_15.43.59.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
