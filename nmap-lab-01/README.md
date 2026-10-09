@@ -81,7 +81,7 @@ All scans in this project are intended for systems owned by the learner or syste
  
  ## 9. Scan Evidence
  The screenshot below shows the results of my Nmap TCP port scanning exercise.
- ![Nmap Scan Results] (Screenshot_2026-10-09_at_15.43.59.png)
+ ![Nmap Scan Results] (Screenshot 2026-10-09 at 15.43.49.png)
 
 
 
